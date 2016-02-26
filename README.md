@@ -31,3 +31,7 @@ This R script does the below:
 
 
 ###Details
+
+
+The CodeBook.md file has the details of the main variables from the code.
+
