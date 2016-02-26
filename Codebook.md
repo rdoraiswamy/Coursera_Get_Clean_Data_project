@@ -58,3 +58,18 @@
 	 28       28  382
 	 29       29  344
 	 30       30  383
+
+###  complete_dataset
+
+``complete_dataset
+
+  summary(complete_dataset)
+
+
+    Subjects                   Activity    tBodyAcc-mean()-X
+ Min.   : 1.00   LAYING            :1944   Min.   :-1.0000  
+ 1st Qu.: 9.00   SITTING           :1777   1st Qu.: 0.2626  
+ Median :17.00   STANDING          :1906   Median : 0.2772  
+ Mean   :16.15   WALKING           :1722   Mean   : 0.2743  
+ 3rd Qu.:24.00   WALKING_DOWNSTAIRS:1406   3rd Qu.: 0.2884  
+ Max.   :30.00   WALKING_UPSTAIRS  :1544   Max.   : 1.0000  
