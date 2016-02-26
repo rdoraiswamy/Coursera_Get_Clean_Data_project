@@ -14,7 +14,6 @@ This R script does the below:
 2. Reads and stores the features from the file features.txt, by 
 	   transposing the rows to columns.
 
-
 3. Read and build the X values from X_train.txt and X_test.txt. 
 	 The columns are from the features data above which are either 
 	 mean or std (Std Deviation) in their names.
