@@ -9,6 +9,17 @@
  [7] "read_subjects"    "read_x_data"      "read_y_data"     
  [10] "subjects"         "x_data"           "y_data"
 
+### > (act_names)
+
+
+  id               name
+	1  1            WALKING
+	2  2   WALKING_UPSTAIRS
+	3  3 WALKING_DOWNSTAIRS
+	4  4            SITTING
+	5  5           STANDING
+	6  6             LAYING
+
 ### subject
 
 
