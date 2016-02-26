@@ -9,10 +9,11 @@
  [7] "read_subjects"    "read_x_data"      "read_y_data"     
  [10] "subjects"         "x_data"           "y_data"
 
-### > (act_names)
+###  act_names
 
+``act_names
 
-  id               name
+     id            name
 	1  1            WALKING
 	2  2   WALKING_UPSTAIRS
 	3  3 WALKING_DOWNSTAIRS
