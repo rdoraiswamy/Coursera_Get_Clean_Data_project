@@ -5,11 +5,13 @@
 ##Main File run_analysis.R
 
 This R script does the below:
-
+<br>
 1. Reads and stores the subject from the file subject_test.txt.
+<br>
 
 2. Reads and stores the features from the file features.txt, by 
 	   transposing the rows to columns.
+<br>
 
 3. Read and build the X values from X_train.txt and X_test.txt. 
 	 The columns are from the features data above which are either 
