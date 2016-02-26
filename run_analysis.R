@@ -88,3 +88,4 @@ activ_means <- aggregate(activ_array
 names(activ_means)[1:2] <- c("Subject", "Activity");
 #Let us write the final Tidy data
 write.csv(activ_means, "./tidy_final_activity_data.csv");
+write.table(activ_means, "./tidy_final_activity_data.txt", row.name=FALSE);
